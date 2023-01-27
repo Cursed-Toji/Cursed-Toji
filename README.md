@@ -31,8 +31,8 @@ Atualmente faço faculdade na Universidade Positivo[UP](https://www.up.edu.br/) 
   </a>
 </p>
 
-<!-- ## <img src="https://img.icons8.com/stickers/30/undefined/commit-git.png"/> Contribuitions
+## <img src="https://img.icons8.com/stickers/30/undefined/commit-git.png"/> Contribuitions
 <p align="center">
   <img src="https://raw.githubusercontent.com/victorcals/victorcals/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/victorcals/victorcals/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</p> -->
+</p>
