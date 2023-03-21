@@ -19,8 +19,14 @@ Atualmente faço faculdade na Universidade Positivo[UP](https://www.up.edu.br/) 
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-  <!-- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODE"/></code>  -->
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODE"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
+</p>
+<p align="center">
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title = "NPM"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" title = "VueJs"/></code>
 </p>
  
 ## ⚡ GitHub Stats
