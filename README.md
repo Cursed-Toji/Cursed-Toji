@@ -26,7 +26,9 @@ Atualmente faço faculdade na Universidade Positivo[UP](https://www.up.edu.br/) 
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title = "NPM"/></code>
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" title = "VueJs"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/icons/vuejs/vuejs-original.svg" title = "VUE"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
+    <!-- <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" title = "VueJs"/></code> -->
 </p>
  
 ## ⚡ GitHub Stats
