@@ -11,7 +11,7 @@
     <img src="https://img.icons8.com/bubbles/150/000000/instagram-new--v2.png"/>
   </a>
   <a href="https://www.linkedin.com/in/victor-cals-98a865214/" target="_blank">
-    <img src="https://icons8.com.br/icon/8808/linkedin"/>
+    <img src="https://imgur.com/Lxj7vXh"/>
   </a>
 </p>
 
