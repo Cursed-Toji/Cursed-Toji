@@ -7,14 +7,13 @@
 <p align="center">Futuristic Cybersecurity Enthusiast | Front-End Developer | Investigator 💻🔍</p>
 
 <p align="center">   
-
-        <a href="https://www.linkedin.com/in/victorcalslinguagemprogramacao/" target="_blank">
+<a href="https://www.linkedin.com/in/victorcalslinguagemprogramacao/" target="_blank">
                 <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
             
-                <a href="https://www.instagram.com/victorcals_/" target="_blank">
+<a href="https://www.instagram.com/victorcals_/" target="_blank">
                 <img width="64" height="64" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new"/></a>
             
-        </p>
+</p>
 
 ## 🚀 Technologies & Tools
 
