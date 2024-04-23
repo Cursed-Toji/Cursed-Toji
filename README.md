@@ -7,15 +7,15 @@
 <p align="center">Futuristic Cybersecurity Enthusiast | Front-End Developer | Investigator 💻🔍</p>
 
 <p align="center">        
-            <a href="https://www.instagram.com/victorcals_/" target="_blank">
+<a href="https://www.instagram.com/victorcals_/" target="_blank">
                 <img src="https://i.postimg.cc/1VXW1m8d/download-8.jpg" alt="download-8" width="100px" style="max-width:100%;">
-            </a>
+ </a>
             
-            <a href="https://postimg.cc/NLjCH4dx" target="_blank">
-                <img src="https://i.postimg.cc/NLjCH4dx/download-7.jpg" alt="download-7" width="100px" style="max-width:100%;">
-            </a>
+<a href="https://postimg.cc/NLjCH4dx" target="_blank">
+ <img src="https://i.postimg.cc/NLjCH4dx/download-7.jpg" alt="download-7" width="100px" style="max-width:100%;">
+</a>
             
-        </p>
+ </p>
 
 
 ## 🚀 Technologies & Tools
