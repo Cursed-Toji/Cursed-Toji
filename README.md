@@ -20,7 +20,6 @@
       width="64"
       height="64"
       src="https://img.icons8.com/nolan/64/linkedin.png"
-      title="LinkedIn"
       alt="linkedin"
   /></a>
 
@@ -29,7 +28,6 @@
       width="64"
       height="64"
       src="https://img.icons8.com/nolan/64/instagram-new.png"
-      title="Instagram"
       alt="instagram-new"
   /></a>
 </p>
@@ -144,6 +142,12 @@
       src="https://www.kali.org/tools/nikto/images/nikto-logo.svg"
       title="Nikto"
   /></code>
+  <!-- <code
+    ><img
+      width="60px"
+      src="https://www.tenable.com/sites/all/themes/tenable_custom_1-2/images/nessus/nessus_logo.png"
+      title="Nessus"
+  /></code> -->
   <code
     ><img
       width="60px"
@@ -151,6 +155,45 @@
       title="Burp Suite"
   /></code>
 </p>
+
+<!-- <p align="center">
+  <code
+    ><img
+      width="60px"
+      src="https://www.kali.org/tools/ncrack/images/ncrack-logo.svg"
+      title="Ncrack"
+  /></code>
+  <code
+    ><img
+      width="60px"
+      src="https://www.kali.org/tools/samba/images/samba-logo.svg"
+      title="Samba"
+  /></code>
+  <code
+    ><img
+      width="60px"
+      src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"
+      title="Metasploit"
+  /></code>
+  <code
+    ><img
+      width="60px"
+      src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg"
+      title="Wireshark"
+  /></code>
+  <code
+    ><img
+      width="60px"
+      src="https://www.kali.org/tools/scapy/images/scapy-logo.svg"
+      title="Scapy"
+  /></code>
+  <code
+    ><img
+      width="60px"
+      src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg"
+      title="Ettercap"
+  /></code>
+</p> -->
 
 ## 🌟 GitHub Stats
 
@@ -171,4 +214,3 @@
 <p align="center">
   Thanks for visiting! Let's connect and explore the future together. 🌟
 </p>
-
