@@ -200,14 +200,14 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorcals&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=cursed-toji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
   />
 </p>
 
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorcals&layout=compact&langs_count=8&theme=algolia"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cursed-toji&layout=compact&langs_count=8&theme=algolia"
   />
 </p>
 
